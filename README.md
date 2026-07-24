@@ -16,7 +16,7 @@ This repository contains my academic achievements, awards, and professional cert
 |---|---|---:|---|
 | Software Engineering Specialization | Coursera | 2026 | [View](certificates/software-engineering-specialization.pdf) |
 | Object Oriented Programming in Java Specialization | Coursera | 2026 | [View](certificates/oop-in-java-specialization.pdf) |
-| Generative AI Fundamentals Specialization | Coursera | 2026 | [View](certificates/generative-ai-fundamentals-specialization.pdf) |
+| Generative AI Fundamentals Specialization | Coursera | 2026 | [View](certificates/AI-generative-fundamentals-specification.pdf) |
 
 ## Notes
 
